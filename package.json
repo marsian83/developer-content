@@ -26,7 +26,7 @@
     "dev:sync": "pnpm dev & (sleep 5 && pnpm browser-sync)"
   },
   "dependencies": {
-    "@crowdin/cli": "^3.18.0",
+    "@crowdin/cli": "^4.12.0",
     "@types/node": "20.11.17",
     "@types/react": "18.2.15",
     "@types/react-dom": "18.2.7",
